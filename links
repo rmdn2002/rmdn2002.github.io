@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <title> Titel voor browser balk </title> 
+</head>
+
+<body>
+  <h1> Links </h1>
+  <p> Hieronder vind je mijn drie favoriete links </p>
+  <ol> 
+    <li> <a href="https://www.google.com" title="google"></a> </li>
+    <li> <a href="https://www2.hm.com" title="H&M"></a> </li>
+    <li> <a href="https://www.debijenkorf.nl" title="Bijenkorf"></a> </li>
+    </ol>
+<a href="links.html"> links </a>
+
+</body>
+</html>
